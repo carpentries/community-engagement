@@ -1,6 +1,13 @@
 # local-regional-community-building
 This repository will hold resources to support local and regional community building efforts by Carpentries community members.
 
+## Existing Resources
+
+| EXISTING RESOURCES                                                      	| DESCRIPTION                                                                                                                                                                                                                                                                	| NOTES ABOUT RESOURCE                                                                                                                                     	| STATUS                                                                          	|
+|-------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------	|
+| [The Carpentries Community Cookbook](https://cookbook.carpentries.org/) 	| With a primarily focus on workshops and activities in The Carpentries, the cookbook contains ‘recipes’ or practical tips, tricks and resources to aid you in creating your own strong, local communities.                                                                  	| developed by [Carpentries Champions](https://carpentries.org/community/#champions) with guidance from Belinda Weaver and Jonah Duckles in 2017 and 2018. 	| not launched                                                                    	|
+| [The CarpentryConnect Planning Kit](https://carpentryconnect.org)       	| Developed in 2020 to guide Carpentries community members as they organise local and regional Carpentries events, whether online or in-person. It contains checklists to work with, recommendations for best practices and resources on event planning for further reading. 	| developed by Serah Njambi Rono in Q1 2020.                                                                                                               	| [launched](https://carpentries.org/blog/2020/04/carpentryconnect-planning-kit/) 	|
+
 ## Resources Wishlist
 
 Here is a list of resources to support local and regional community development that have been suggested or requested for. 
