@@ -8,6 +8,10 @@
 
 design of products, devices, services, or environments to be usable by people who experience disabilities; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility
 
+#### AMY
+
+the internal database of The Carpentries; it allows the organisation to track programmatic activity including: workshops, Tnstructor Trainings, individual roles and badges, and institutional memberships
+
 
 ## B
 
