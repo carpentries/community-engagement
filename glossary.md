@@ -106,7 +106,7 @@ individuals and committees who are a part of our operations, including, but not 
 
 #### Community Calendar
 
-NEEDS DEFINITION 
+Google calendar that includes all Carpentries events
 
 #### Community Coordinator
 
