@@ -1,5 +1,5 @@
-# local-regional-community-building
-This repository will hold resources to support local and regional community building efforts by Carpentries community members.
+# community-development
+This repository will hold ideas and resources to support community building efforts by Carpentries community members as part of the Community Development Program.
 
 ## Existing Resources
 
@@ -11,7 +11,7 @@ This repository will hold resources to support local and regional community buil
 
 ## Resources Wishlist
 
-Here is a list of resources to support local and regional community development that have been suggested or requested for. 
+Here is a list of resources to support community development that have been suggested or requested for. 
 
 | RESOURCES NEEDED                                                                                           	| NOTES                                                                                                                                                                                                                                                                                                                                                                                	| SUGGESTED / REQUESTED BY 	| STATUS  	|
 |-----------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------	|---------	|
