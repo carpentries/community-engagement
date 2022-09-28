@@ -561,6 +561,8 @@ person that organises a Carpentries workshop on behalf of their institution and 
 
 ## Z
 
+#### Zoom
+video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as instructor trainings, community discussions, teaching demos, and committee meetings 
 
 ## 
 
