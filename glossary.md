@@ -352,6 +352,10 @@ collection of lessons which comprise one or more Carpentries workshops and the l
 
 group overseeing the strategy and policies of a Lesson Program 
 
+#### Liaison
+
+representative of the Core Team who sits on a committee or task force to support the group's work 
+
 #### Local Community
 
 members of a local community within a specific geographic region
