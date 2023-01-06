@@ -540,6 +540,10 @@ member of the community who translate our resources into multiple languages
 
 ## W
 
+#### Workbench
+
+the collection of three packages used to build Carpentries lessons: [sandpaper](https://carpentries.github.io/sandpaper), [pegboard](https://carpentries.github.io/pegboard), [varnish](https://carpentries.github.io/varnish); see **_Lesson Infrastructure_**
+
 #### Workshop Administrator
 
 role within The Carpentries Core Team that supports the organisation and execution of workshops requested by members and hosts
