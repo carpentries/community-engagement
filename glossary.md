@@ -74,7 +74,7 @@ collection of information on Carpentries policies and procedures, including how 
 
 #### Centrally-Organised Workshops
 
-Carpentries workshop, in which logistics and organisation is supported by The Carpentries Core Team for a fee
+Carpentries workshop, in which logistics and organisation are supported by The Carpentries Core Team for a fee
 
 #### Certification
 
