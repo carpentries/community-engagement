@@ -10,7 +10,7 @@ design of products, devices, services, or environments to be usable by people wh
 
 #### AMY
 
-the internal database of The Carpentries; it allows the organisation to track programmatic activity including: workshops, Tnstructor Trainings, individual roles and badges, and institutional memberships
+the internal database of The Carpentries; it allows the organisation to track programmatic activity including: workshops, Instructor Trainings, individual roles and badges, and institutional memberships
 
 
 ## B
