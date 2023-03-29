@@ -38,6 +38,10 @@ members of The Carpentries Core Team who work on the legal and financial aspects
 
 bi-weekly newsletter sent to an opt-in email list, featuring community news and announcements and including important updates from The Carpentries committees, task forces and programs, job postings, and related information for our community from other organisations
 
+#### Carpentries Commons
+
+GitHub repository for open sharing of reusable material, such as text for grants, wording for job or tenure applications, slide decks for conferences, workshop descriptions, promotional copy, etc. The Carpentries Core Team has write access to add, edit and upload material to this repository. Other members of the community will need to fork the repository and submit pull requests.
+
 #### Carpentries Conversations
 
 community discussion hosted by one of our committees or task forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation
