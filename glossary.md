@@ -529,7 +529,7 @@ training in how to teach Instructor Training; a necessary step to complete Train
 
 #### Training
 
-event that provides instruction (and/or training) on specific competencies, knowledge, or skills. The individuals who complete training bcome eligible for certification upon completion of the program requirements. **see _Instructor Training_**, **see _Trainer Training_**
+event that provides instruction (and/or training) on specific competencies, knowledge, or skills. The individuals who complete training become eligible for certification upon completion of the program requirements. **see _Instructor Training_**, **see _Trainer Training_**
 
 #### Translator
 
