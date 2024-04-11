@@ -60,7 +60,7 @@ members of the community who organise CarpentryCon
 
 #### CarpentryConnect
 
-events organised by Community Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to **_CarpentryCon Planning Kit_**
+events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to **_CarpentryCon Planning Kit_**
 
 #### [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
 
@@ -110,15 +110,12 @@ any individual who has engaged or continues to engage in any capacity with the T
 
 [Google calendar](https://carpentries.org/community/#community-events) that includes all Carpentries events
 
-#### Community Coordinator
-
-member of the community who serves as leader of a subcommunity and who supports the Community Development Program
 
 #### Community Development Program (CDP)
 
-program supported by the Community Development Team that offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., Community Coordinators); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally
+program supported by the Community Engagement Team that offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., Subcommunity Coordinators); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally
 
-#### Community Development Team (CDT)
+#### Community Engagement Team (CET)
 
 members of The Carpentries Core Team who work to develop and maintain an open and welcoming community culture; develop, test and implement communication strategies; support various committees and task forces; introduce and support initiatives to increase pathways for collaboration in our community; focus on equitable distribution of resources, opportunities and access to inclusive spaces for our community members globally
 
@@ -132,7 +129,7 @@ fiscal sponsor of The Carpentries
 
 #### Community Session
 
-community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Session, Skill-up Session, Collaboration Session; The Carpentries Community Development Team manages Community Sessions which are led by Community Session Hosts
+community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Session, Skill-up Session, Collaboration Session; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts
 
 #### Community Session Host
 
@@ -206,7 +203,7 @@ open-source, web-based collaborative real-time editor; allows authors to edit a 
 
 #### Executive Council 
 
-governing body of The Carpentries, to whom the Executive Director reports; comprises nine members from The Carpentries community or others, four elected by the community, and five appointed by the Executive Council; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms
+former governing body of The Carpentries, to whom the Executive Director reports; comprises nine members from The Carpentries community or others, four elected by the community, and five appointed by the Executive Council; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms
 
 #### Executive Team
 
@@ -467,7 +464,11 @@ document used to communicate The Carpentries goals, objectives, and actions take
 
 #### Subcommunity
 
-a subset of our global community and can be local, regional, domain-specific, or a group of community members sharing a common language or interests; these groups are supported by The Carpentries Community Development Program 
+a subset of the larger Carpentries community; can be local, regional, domain-specific, or a group of community members sharing a common language or interests 
+
+#### Subcommunity Coordinator
+
+member of the community who serves as leader of a subcommunity 
 
 #### Subcommunity Registry
 
