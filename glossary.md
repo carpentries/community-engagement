@@ -66,7 +66,7 @@ events organised by Subcommunity Coordinators to bring together members of a Car
 
 resource designed to guide community members as they organise CarpentryConnect events, whether online or in-person; resource includes checklists to work with, recommendations for best practices, and resources on event planning for further reading
 
-#### [Carpentries Handbook]((https://docs.carpentries.org/index.html) 
+#### [Carpentries Handbook](https://docs.carpentries.org/index.html)
 
 collection of information on Carpentries policies and procedures, including how to lead a workshop, how to develop and maintain lessons, how to participate in a training event, how to get involved in our global community, and information about Carpentries communication channels 
 
@@ -191,7 +191,7 @@ coordinates and oversees the open peer review of lessons in The Carpentries Lab
 
 #### Episode (Lesson Episode)
 
-a single page in the body of a Carpentries lesson; multiple chapters make up a lesson; a chapter does not need to be self-contained
+a single page in the body of a Carpentries lesson; multiple episodes make up a lesson; an episode does not need to be self-contained
 
 #### Equity
 
