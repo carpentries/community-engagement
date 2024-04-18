@@ -1,5 +1,5 @@
 
-# Glossary of Terms: Community Development Program
+# Glossary of Terms for The Carpentries Community
 
 
 ## A
