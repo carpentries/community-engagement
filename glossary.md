@@ -178,6 +178,12 @@ members of The Carpentries Core Team who guide and oversee curriculum developmen
 
 refer to **_Teaching Demo_**
 
+
+#### Discussion Host 
+
+member of The Carpentries community who facilitated a community discussion; now known as Community Session Host
+
+
 #### Diversity
 
 individual differences (e.g., personality, language, learning preferences and life experiences) and group-social differences (e.g., race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) that can be engaged in the service of learning
@@ -389,9 +395,6 @@ refer to **_Member Organisation_**
 
 an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement 
 
-#### Member Council
-
-group of representatives from Member Organisations that provide feedback and ideas to the Membership Team; each Member Organisation is allocated seats on the Member Council
 
 ## N
 
@@ -485,9 +488,6 @@ a registry of all The Carpentries subcommunities who have officially registered 
 
 group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period
 
-#### Team
-
-group of Core Team members that work collaboratively to support a specific program area; for a list of our Teams, refer to [Quarterly Team Projects in The Carpentries](https://carpentries.org/core-team-projects/)
 
 #### Teaching Demo
 
@@ -663,6 +663,10 @@ members of The Carpentries Core Team that ensure the development, maintenance, a
 
 inactive committee that developed and maintained a mentorship program to support Instructors as they progress through training, teaching, curriculum development, and other community-related activities; they helped promote community-building and networking by providing (virtual) spaces where Instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges
 
+#### Member Council
+
+group of representatives from Member Organisations that provide feedback and ideas to the Membership Team; each Member Organisation is allocated seats on the Member Council
+
 #### Membership Team
 
 members of The Carpentries Core Team who supported the growth and development of The Carpentries Membership Program; Membership is now supported by the Business Team and Community Engagement Team
@@ -682,6 +686,10 @@ an inactive program that supported Instructors who were new to our community by 
 #### Pre- and Post-Workshop Discussion
 
 community discussion designed for Instructors getting ready to teach or having recently taught to come to discuss their workshop with other Instructors; now broadly referred to as Community Discussion Session 
+
+#### Team
+
+group of Core Team members that work collaboratively to support a specific program area; for a list of our Teams, refer to [Quarterly Team Projects in The Carpentries](https://carpentries.org/core-team-projects/)
 
 #### Themed Discussion Session
 
