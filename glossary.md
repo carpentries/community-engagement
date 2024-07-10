@@ -6,11 +6,11 @@
 
 #### Accessibility
 
-design of products, devices, services, or environments to be usable by people who are differently abled; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility
+design of products, devices, services, or environments to be usable by differently-abled people; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility
 
 #### AMY
 
-the internal database of The Carpentries; it allows the organisation to track programmatic activity including: workshops, trainings, community roles and badges, and institutional memberships
+the internal database of The Carpentries; it allows the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional memberships
 
 
 ## B
@@ -80,7 +80,7 @@ process of earning a badge; refer to **_Badge, Checkout_**
 
 #### Checkout
 
-a process consisting of steps to be completed after, or in addition to, training in order to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/checkout/index.html), but may also refer to [steps required for Trainer certification](https://carpentries.github.io/trainer-training/01-week1_discussion_questions/index.html#trainer-checkout)
+a process consisting of steps to be completed after, or in addition to, training to complete certification; most often, this refers to the [Instructor checkout process](https://carpentries.github.io/instructor-training/14-checkout.html), but may also refer to [steps required for Instructor Trainer certification](https://carpentries.github.io/trainer-training/index.html)
 
 #### [Code of Conduct (CoC)](https://docs.carpentries.org/topic_folders/policies/index_coc.html)
 
@@ -108,7 +108,7 @@ group of community members appointed for a specific function (e.g., Curriculum A
 
 #### Community
 
-any individual who has engaged or continues to engage in any capacity with the The Carpentries, including members of the Core Team
+any individual who has engaged or continues to engage in any capacity with the Carpentries, including members of the Core Team
 
 #### Community Calendar
 
@@ -117,7 +117,7 @@ any individual who has engaged or continues to engage in any capacity with the T
 
 #### Community Development Program (CDP)
 
-program supported by the Community Engagement Team that offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., Subcommunity Coordinators); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally
+the program is supported by the Community Engagement Team and offers resources and services to support community leaders who are building new or sustaining existing subcommunities (i.e., Subcommunity Coordinators); the primary goal of the program is to improve how subcommunities are supported to maximise benefits to our community members and to ensure the long term sustainability of the organisation as we continue to grow globally
 
 #### Community Engagement Team (CET)
 
@@ -133,7 +133,7 @@ fiscal sponsor of The Carpentries
 
 #### Community Session
 
-community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Session, Skill-up Session, Collaboration Session; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts
+community event designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally; there are three types of community Sessions: Community Discussion Sessions, Skill-up Sessions, and Collaboration Sessions; The Carpentries Community Engagement Team manages Community Sessions which are led by Community Session Hosts
 
 #### Community Session Host
 
@@ -207,7 +207,7 @@ open-source, web-based collaborative real-time editor; allows authors to edit a 
 
 #### Executive Council 
 
-former governing body of The Carpentries, to whom the Executive Director reports; comprises nine members from The Carpentries community or others, four elected by the community, and five appointed by the Executive Council; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms
+the former governing body of The Carpentries, to whom the Executive Director reports; comprises nine members from The Carpentries community or others, four elected by the community, and five appointed by the Executive Council; the highest leadership body of The Carpentries project responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image; members of the council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the project’s reputation and fundraising; executes these responsibilities through a combination of quarterly Executive Council meetings and regular correspondence and collaboration via email and online platforms
 
 #### Executive Team
 
@@ -225,7 +225,7 @@ system by which an organisation is controlled and operates; governance of The Ca
 
 #### Gratitudes
 
-opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customized emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share a gratitude in Slack or social media
+opportunities available for the community to share an appreciation for each other and all that we have been able to accomplish together; a gratitudes section is included in every newsletter; [a customized emoji](https://github.com/carpentries/logo/blob/main/Carpentries%20Gratitude%20Emoji.png) is also available to share gratitude in Slack or social media
 
 #### Green Sticky
 
@@ -287,7 +287,7 @@ individual who is in the process of being certified as an Instructor
 
 #### Instructor Trainer
 
-community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Trainer meetings, and teach Instructor Training Bonus Modules 
+community member who has been trained and certified to teach Instructor Training; they also host teaching demonstrations, attend Instructor Trainer meetings, and teach Instructor Training Bonus Modules 
 
 #### Instructor Training
 
@@ -296,10 +296,6 @@ training in how to teach Carpentries workshops, including educational psychology
 #### Instructor Training Bonus Module
 
 additional optional training that may be offered to Instructors 
-
-#### Instructor Training Team
-
-members of The Carpentries Core Team who support the growth and development of the Instructor Training and Trainer Training programs 
 
 #### Internationalisation
 
@@ -356,7 +352,7 @@ refer to **_Maintainer_**
 
 #### Lesson Program
 
-collection of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://www.google.com/url?q=https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html?highlight%3Dprogram%23lesson-programs&sa=D&source=docs&ust=1655288647439065&usg=AOvVaw3I5ulcHeU8MNisgeRHiiw_)
+collection of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_)
 
 #### Lesson Program Governance Committee
 
@@ -391,7 +387,7 @@ refer to **_Member Organisation_**
 
 #### Member Organisation
 
-institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement 
+an institution committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution’s Membership Agreement or Memorandum of Agreement 
 
 #### Member Council
 
@@ -408,7 +404,7 @@ communication sent to an opt-in mailing list each month, featuring community new
 
 #### Official Lesson
 
-single lesson within a Lesson Program that can be taught in an official Carpentries workshop
+the single lesson within a Lesson Program that can be taught in an official Carpentries workshop
 
 
 ## P
@@ -433,11 +429,11 @@ constructive feedback from the community or for the community
 
 #### Regional Community Call
 
-community session pertaining to regional subcommunity matters 
+community session of regional subcommunity matters 
 
 #### Reviewer
 
-community member providing feedback on a lesson as part of The Carpentries Lab open peer review process
+community member providing feedback on a lesson as part of The Carpentries Lab's open peer review process
 
 #### Roadmap
 
@@ -460,7 +456,7 @@ software platform used by The Carpentries to support synchronous and asynchronou
 
 #### Sponsor
 
-organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to **_Sponsorship Program_** 
+an organisation that has committed to supporting The Carpentries financially through the Carpentries Sponsorship program; refer to **_Sponsorship Program_** 
 
 #### Sponsorship Program
 
@@ -468,7 +464,7 @@ program that allows a company, firm, or other entity to contribute financially t
 
 #### Strategic Plan
 
-document used to communicate The Carpentries goals, objectives, and actions taken to achieve those goals over a three to five-year period
+document used to communicate The Carpentries' goals, objectives, and actions taken to achieve those goals over a three to five-year period
 
 #### Subcommunity
 
@@ -487,7 +483,7 @@ a registry of all The Carpentries subcommunities who have officially registered 
 
 #### Task Force
 
-group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period of time
+group created to explore ideas and make updates in policy, procedures and guidelines; they bring together a small group of people focused on a particular topic for a set period
 
 #### Team
 
@@ -495,7 +491,7 @@ group of Core Team members that work collaboratively to support a specific progr
 
 #### Teaching Demo
 
-session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process
+a session where Instructor Trainees give a short demonstration of how they would teach a lesson; part of the Instructor certification process
 
 #### Technology Team
 
@@ -511,17 +507,17 @@ platform The Carpentries uses for supporting email mailing lists; there are nume
 
 #### Trainee
 
-individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Trainer Training) but has not yet completed certification; refer to **_Instructor Trainee_**
+an individual who has registered for or attended a Carpentries Training (e.g., Instructor Training, Instructor Trainer Training) but has not yet completed certification; refer to **_Instructor Trainee_**
 
 #### Trainer
 
 community member who teaches a Carpentries Training; refer to **_Instructor Trainer_**
 
-#### Trainers Leadership
+#### Instructor Trainers Leadership
 
 committee of Instructor Trainers responsible for community oversight and governance
 
-#### Trainer Training
+#### Instructor Trainer Training
 
 training in how to teach Instructor Training; a necessary step to complete Trainer checkout and certification 
 
@@ -537,7 +533,7 @@ event that provides instruction on specific competencies, knowledge, or skills; 
 
 
 ## W
-
+ gc
 #### Welcome Session
 
 a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities; it also supports onboarding for those who recently completed Instructor training and onboarding for new member organisations
@@ -554,9 +550,9 @@ event that is taught by Carpentries Instructors who teach the curriculum of Data
 
 role within The Carpentries Core Team that supports the organisation and execution of workshops requested by members and hosts
 
-#### Workshop Administration Team
+#### Workshops and Instruction Team
 
-members of The Carpentries Core Team who develop and implement workflows to keep our workshops operating smoothly
+members of The Carpentries Core Team who develop and implement workflows to keep our workshops operating smoothly. The team also supports the growth and development of the Instructor Training and Instructor Trainer Training programs 
 
 #### Workshop Format
 
@@ -564,7 +560,7 @@ how a workshop is delivered, either online, in-person, or hybrid
 
 #### Workshop Host
 
-person that organises a Carpentries workshop on behalf of their institution and requests a Centrally-Organised Workshop to be coordinated by a Workshop Administrator 
+a person that organises a Carpentries workshop on behalf of their institution and requests a Centrally-Organised Workshop to be coordinated by a Workshop Administrator 
 
 #### Workshop Slug
 
@@ -584,7 +580,7 @@ a link that is used for the public to learn about a workshop; the link shares in
 ## Z
 
 #### Zoom
-video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as instructor trainings, community discussions, teaching demos, and committee meetings 
+video conferencing platform; The Carpentries offers three Zoom rooms for public community events such as instructor training, community discussions, teaching demos, and committee meetings 
 
 ## 
 
@@ -649,11 +645,11 @@ a resource created by the Task Force to guide Community Facilitators in identify
 
 #### Regional Coordinator 
 
-member of the community who managed workshop logistics, communicated with hosts and Instructors, and responded to general inquiries
+member of the community who managed workshop logistics, communicated with hosts and Instructors and responded to general inquiries
 
 #### Resource-Enhancement Facilitator
 
-community facilitator who led discussions around content design to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
+community facilitator who led discussions around content design to guide the publication and archiving of community-created resources in a way that makes them accessible to all, and lowers barriers to knowledge acquisition by other community members i.e. replacing sea of text with images, GIFs, and videos, illustrating workflows to make them easier to understand, managing tags and their use to collate resources across Carpentries platforms, etc
 
 #### Technology Facilitator
 
@@ -669,7 +665,7 @@ inactive committee that developed and maintained a mentorship program to support
 
 #### Membership Team
 
-members of The Carpentries Core Team who supported the growth and development of The Carpentries Membership Program; Membership is now supported by the Business Team and Community Development Team
+members of The Carpentries Core Team who supported the growth and development of The Carpentries Membership Program; Membership is now supported by the Business Team and Community Engagement Team
 
 #### Mentee
 
@@ -681,7 +677,7 @@ Instructor who volunteered to guide small groups of mentees toward a particular 
 
 #### Mentoring Program
 
-inactive program that supported Instructors who are new to our community by matching them with a personal Mentor and helped Mentees gain the confidence, technical skills, and teaching skills needed to achieve their goal
+an inactive program that supported Instructors who were new to our community by matching them with a personal Mentor and helped Mentees gain the confidence, technical skills, and teaching skills needed to achieve their goal
 
 #### Pre- and Post-Workshop Discussion
 
@@ -689,4 +685,4 @@ community discussion designed for Instructors getting ready to teach or having r
 
 #### Themed Discussion Session
 
-community discussion centred around a particular topic (e.g., teaching your first workshop, community building strategies); now broadly referred to as Community Discussion Session
+community discussion centred around a particular topic (e.g., teaching your first workshop, community building strategies); now broadly referred to as a Community Discussion Session
