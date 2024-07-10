@@ -98,6 +98,10 @@ community members trained in any community role who are onboarded at the same ti
 
 community session providing dedicated time and space to co-develop a community resource or to co-work on any community activity
 
+#### Collaborative Lesson Development Training
+
+training in how to design and develop open source curriculum using The Carpentries lesson infrastructure; a necessary step to complete Lesson Developer certification
+
 #### Committee
 
 group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html?highlight=committee) guides committees
@@ -329,6 +333,10 @@ self-contained collection of episodes teaching skills within a single topic, bui
 #### Lesson Developer
 
 member of the community who creates lesson content; may use Curriculum Development Handbook as a primary resource
+
+#### Lesson Developer Trainer
+
+member of the community who has been trained and certified to teach Collaborative Lesson Development Training; they also attend Lesson Developer Trainer meetings
 
 #### Lesson Development Sprint
 
