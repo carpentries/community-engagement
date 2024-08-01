@@ -106,9 +106,9 @@ training in how to design and develop open source curriculum using The Carpentri
 
 group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html?highlight=committee) guides committees
 
-#### Community
+#### Community 
 
-any individual who has engaged or continues to engage in any capacity with the Carpentries, including members of the Core Team
+a group of community members, see **_community members**_.
 
 #### Community Calendar
 
@@ -121,7 +121,8 @@ the program is supported by the Community Engagement Team and offers resources a
 
 #### Community Engagement Team (CET)
 
-members of The Carpentries Core Team who work to develop and maintain an open and welcoming community culture; develop, test and implement communication strategies; support various committees and task forces; introduce and support initiatives to increase pathways for collaboration in our community; focus on equitable distribution of resources, opportunities and access to inclusive spaces for our community members globally
+The Community Engagement Team is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among members of the community and maintaining resources to engage subcommunities](see **_subcommunities_**). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centering equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
+
 
 #### Community Discussion Session
 
@@ -130,6 +131,10 @@ structured or flexibly structured community session on any topic relevant to the
 #### Community Initiatives
 
 fiscal sponsor of The Carpentries
+
+#### Community Member
+
+an individual who actively participates in The Carpentries' activities, contributing to its mission of building global capacity in data and computational skills. Roles include learners, Instructors, Maintainers, Trainers and supporters, all committed to fostering an inclusive, collaborative, and supportive learning environment.
 
 #### Community Session
 
@@ -358,7 +363,7 @@ refer to **_Maintainer_**
 
 #### Lesson Program
 
-collection of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_)
+collection of lessons i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_)
 
 #### Lesson Program Governance Committee
 
