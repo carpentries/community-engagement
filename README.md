@@ -1,4 +1,4 @@
-# community-development
+# community-engagement
 This repository will hold ideas and resources to support community building efforts by Carpentries community members as part of the Community Development Program.
 
 ## Existing Resources
