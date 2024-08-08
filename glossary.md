@@ -533,7 +533,8 @@ event that provides instruction on specific competencies, knowledge, or skills; 
 
 
 ## W
- gc
+
+
 #### Welcome Session
 
 a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities; it also supports onboarding for those who recently completed Instructor training and onboarding for new member organisations
