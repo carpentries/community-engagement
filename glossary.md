@@ -23,10 +23,6 @@ indicator of a role in The Carpentries community that requires certification; ty
 
 written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks 
 
-#### Bonus Module
-
-refer to **_Instructor Training Bonus Module_**
-
 #### Business Team
 
 members of The Carpentries Core Team who work on the legal and financial aspects of the organisation and coordinate with our funders and sponsors
@@ -298,10 +294,6 @@ community member who has been trained and certified to teach Instructor Training
 #### Instructor Training
 
 training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step to complete Instructor checkout and certification; refer to **_Instructor Training Curriculum_**
-
-#### Instructor Training Bonus Module
-
-additional optional training that may be offered to Instructors 
 
 #### Internationalisation
 
@@ -595,6 +587,10 @@ inactive community service role within the Community Facilitators program; acces
 
 inactive committee that consisted of community members helping The Carpentries understand and assess the organisation’s impact
 
+#### Bonus Module
+
+refer to **_Instructor Training Bonus Module_**
+
 #### Buddy
 
 see **_Community Buddy_**
@@ -662,6 +658,10 @@ members of The Carpentries Core Team that ensure the development, maintenance, a
 #### Instructor Development Committee (IDC)
 
 inactive committee that developed and maintained a mentorship program to support Instructors as they progress through training, teaching, curriculum development, and other community-related activities; they helped promote community-building and networking by providing (virtual) spaces where Instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges
+
+#### Instructor Training Bonus Module
+
+additional optional training that may be offered to Instructors 
 
 #### Member Council
 
