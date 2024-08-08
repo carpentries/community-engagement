@@ -277,7 +277,7 @@ lesson under development by the community in The Carpentries Incubator, using th
 
 #### Incubator Lesson Spotlight
 
-a regular feature in The Carpentries blog and newsletter, highlighting a lesson currently under community development; the purpose is to raise the visibility of that lesson among the broader community and to encourage community members to contribute to its further development
+a feature in The Carpentries blog and newsletter, highlighting a lesson currently under community development; the purpose is to raise the visibility of that lesson among the broader community and to encourage community members to contribute to its further development
 
 #### Instructors
 
