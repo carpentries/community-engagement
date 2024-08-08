@@ -285,7 +285,7 @@ community members who are certified to teach Carpentries workshops after complet
 
 #### Instructor Meeting
 
-monthly meetings where Instructors discuss pre/post workshops, challenges and wins, and receive important announcements from the Core Team
+every other month meetings where Instructors discuss pre/post workshops, challenges and wins, and receive important announcements from the Core Team
 
 #### Instructor Trainee
 
