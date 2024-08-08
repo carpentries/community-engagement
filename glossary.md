@@ -689,7 +689,7 @@ community discussion designed for Instructors getting ready to teach or having r
 
 #### Team
 
-group of Core Team members that work collaboratively to support a specific program area; for a list of our Teams, refer to [Quarterly Team Projects in The Carpentries](https://carpentries.org/core-team-projects/)
+group of Core Team members that work collaboratively to support a specific program area
 
 #### Themed Discussion Session
 
