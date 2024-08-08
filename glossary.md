@@ -60,7 +60,7 @@ members of the community who organise CarpentryCon
 
 #### CarpentryConnect
 
-events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to **_CarpentryCon Planning Kit_**
+events organised by Subcommunity Coordinators to bring together members of a Carpentries’ subcommunity for knowledge exchange, collaboration, and networking; frequency, size and scope are determined by community members; refer to **_CarpentryConnect Planning Kit_**
 
 #### [CarpentryConnect Planning Kit](https://carpentryconnect.org/)
 
