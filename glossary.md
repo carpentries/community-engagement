@@ -275,10 +275,6 @@ refer to **_Carpentries Incubator_**
 
 lesson under development by the community in The Carpentries Incubator, using the Carpentries lesson infrastructure
 
-#### Incubator Lesson Spotlight
-
-a regular feature in The Carpentries blog and newsletter, highlighting a lesson currently under community development; the purpose is to raise the visibility of that lesson among the broader community and to encourage community members to contribute to its further development
-
 #### Instructors
 
 community members who are certified to teach Carpentries workshops after completing Instructor Training and checkout
