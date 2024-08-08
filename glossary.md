@@ -297,7 +297,7 @@ community member who has been trained and certified to teach Instructor Training
 
 #### Instructor Training
 
-training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step to complete Instructor checkout and certification; refer to **_Instructor Training Curriculum_**
+training in how to teach Carpentries workshops, including educational psychology, evidence-based teaching practices, and Carpentries-specific information; a necessary step for completing Instructor checkout and certification; refer to **_Instructor Training Curriculum_**
 
 #### Instructor Training Bonus Module
 
