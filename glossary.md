@@ -6,7 +6,7 @@
 
 #### Accessibility
 
-design of products, devices, services, or environments to be usable by differently-abled people; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility
+design of products, devices, services, or environments to be usable by all people regardless of their abilities; sometimes abbreviated as "a11y" where 11 stands for the number of letters between the first “a” and the last “y” in the word accessibility
 
 #### AMY
 
