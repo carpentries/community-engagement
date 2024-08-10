@@ -381,7 +381,7 @@ refer to **_Mailing List_**
 
 #### Mailing List
 
-email list you can subscribe to for receiving communications from the community; TopicBox is the platform The Carpentries uses for supporting mailing lists
+email list you can subscribe to for receiving communications from the community; [TopicBox](#topicbox) is the platform The Carpentries uses for supporting mailing lists
 
 #### Maintainer
 
