@@ -685,7 +685,7 @@ an inactive program that supported Instructors who were new to our community by 
 
 #### Pre- and Post-Workshop Discussion
 
-community discussion designed for Instructors getting ready to teach or having recently taught to come to discuss their workshop with other Instructors; now broadly referred to as Community Discussion Session 
+community discussion designed for Instructors getting ready to teach or having recently taught to discuss their workshop with other Instructors; now broadly referred to as Community Discussion Session 
 
 #### Team
 
