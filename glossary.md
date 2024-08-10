@@ -669,7 +669,7 @@ group of representatives from Member Organisations that provide feedback and ide
 
 #### Membership Team
 
-members of The Carpentries Core Team who supported the growth and development of The Carpentries Membership Program; Membership is now supported by the Business Team and Community Engagement Team
+members of The Carpentries Core Team who supported the growth and development of The Carpentries Membership Program; Membership is now supported by the Community Engagement Team
 
 #### Mentee
 
