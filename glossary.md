@@ -363,7 +363,7 @@ refer to **_Maintainer_**
 
 #### Lesson Program
 
-collection of lessons i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_)
+collection of lessons (i.e Data Carpentry, Library Carpentry and Software Carpentry lessons) which comprise one or more Carpentries workshops and the leadership guiding their development and implementation; [lesson programs are described in further detail in The Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-programs_)
 
 #### Lesson Program Governance Committee
 
