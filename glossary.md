@@ -206,7 +206,7 @@ a single page in the body of a Carpentries lesson; multiple episodes make up a l
 
 #### Equity
 
-creation of opportunities for equal access to and participation in programs that are capable of closing participation gaps in our community
+creation of opportunities for access to and participation in programs that are capable of closing participation gaps in our community
 
 #### Etherpad
 
