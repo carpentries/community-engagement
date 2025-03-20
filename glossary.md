@@ -12,7 +12,6 @@ design of products, devices, services, or environments to be usable by all peopl
 
 the internal database of The Carpentries; it allows the organisation to track programmatic activity including workshops, trainings, community roles and badges, and institutional memberships
 
-
 ## B
 
 #### Badge
@@ -22,11 +21,6 @@ indicator of a role in The Carpentries community that requires certification; ty
 #### Blog Post
 
 written content shared on The Carpentries website written by the community or the Core Team to share information, community developments, or teaching tips and tricks 
-
-#### Business Team
-
-members of The Carpentries Core Team who work on the legal and financial aspects of the organisation and coordinate with our funders and sponsors
-
 
 ## C
 
@@ -86,10 +80,6 @@ a policy that describes what is expected of everyone participating in Carpentrie
 
 members of the community who keep our community friendly and welcoming by processing and responding to reports of violations of our Code of Conduct
 
-#### Cohort
-
-community members trained in any community role who are onboarded at the same time and who then work together to develop relevant community-facing resources that address specific needs
-
 #### Collaboration Session
 
 community session providing dedicated time and space to co-develop a community resource or to co-work on any community activity
@@ -100,11 +90,11 @@ training in how to design and develop open source curriculum using The Carpentri
 
 #### Committee
 
-group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html?highlight=committee) guides committees
+group of community members appointed for a specific function (e.g., Curriculum Advisory Committee); [The Carpentries Committee Guidelines](https://docs.carpentries.org/resources/general/committees.html) provide the recommended process for creating committees to ensure transparency, accountability, and sustainability of committee activities
 
 #### Community 
 
-a group of community members, see **_community members**_.
+a network of regional and role-based volunteers, practitioners, and advocates who advance research by emphasizing the critical role of software and data; also see __Community Member__
 
 #### Community Calendar
 
@@ -117,20 +107,15 @@ the program is supported by the Community Engagement Team and offers resources a
 
 #### Community Engagement Team (CET)
 
-The Community Engagement Team is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among members of the community and maintaining resources to engage subcommunities](see **_subcommunities_**). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centering equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
-
+The Community Engagement Team is responsible for all aspects of the Community Development Program, including providing opportunities for networking and collaboration among community members and maintaining resources to engage subcommunities](see **_subcommunities_**). In alignment with engaging local communities and subcommunities, the Community Engagement Team supports The Carpentries Member Organisations and Membership Program, including some administration, community engagement, and communications. The team is also responsible for all organisational communications (i.e., blog, newsletter, social media), coordinating community events (e.g., community discussions), supporting the community roles hosting these events (i.e., Community Discussion Hosts), and assessment of this work. All this is done while centering equity, inclusion, and accessibility to strengthen and maintain our core values as a community. 
 
 #### Community Discussion Session
 
 structured or flexibly structured community session on any topic relevant to the community that can be in any format of the host’s choosing
 
-#### Community Initiatives
-
-fiscal sponsor of The Carpentries
-
 #### Community Member
 
-an individual who actively participates in The Carpentries' activities, contributing to its mission of building global capacity in data and computational skills. Roles include learners, Instructors, Maintainers, Trainers and supporters, all committed to fostering an inclusive, collaborative, and supportive learning environment.
+an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
 
 #### Community Session
 
@@ -601,6 +586,10 @@ refer to **_Instructor Training Bonus Module_**
 
 see **_Community Buddy_**
 
+#### Business Team
+
+members of The Carpentries Core Team who work on the legal and financial aspects of the organisation and coordinate with our funders and sponsors
+
 #### Carpentries Conversations
 
 community discussion hosted by one of our committees or task forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation; now broadly referred to as Community Discussion Session
@@ -617,6 +606,10 @@ community member who helped support the growth and development of The Carpentrie
 
 inactive community service role within the Community Facilitators program; community facilitators who serve as a bridge between community members at events and our Code of Conduct processes
 
+#### Cohort
+
+community members trained in any community role who are onboarded at the same time and who then work together to develop relevant community-facing resources that address specific needs
+
 #### Community Buddy
 
 member of the community who onboards new community members
@@ -632,6 +625,10 @@ inactive community service role within the Community Facilitators program; commu
 #### Community Facilitators Program
 
 initiative in The Carpentries that sought to create new pathways for active involvement in everyday community activities by more community members; this program has been merged into the Community Development Program
+
+#### Community Initiatives
+
+fiscal sponsor of The Carpentries
 
 #### Discussion Host 
 
