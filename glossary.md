@@ -516,7 +516,7 @@ committee of Instructor Trainers responsible for community oversight and governa
 
 #### Instructor Trainer Training
 
-training in how to teach Instructor Training; a necessary step to complete Trainer checkout and certification 
+training in how to teach Instructor Training; a necessary step to complete Instructor Trainer checkout and certification 
 
 #### Training
 
