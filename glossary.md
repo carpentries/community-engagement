@@ -415,7 +415,7 @@ event where a new lesson is being tested
 
 #### Policy
 
-guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies, refer to [policies in The Carpentries handbook](https://docs.carpentries.org/topic_folders/policies/index.html)
+guideline adopted by The Carpentries that informs the implementation of procedures, including but not limited to, finances, infrastructure, and programming; for more information on our policies
 
 
 ## Q
@@ -534,7 +534,7 @@ event that provides instruction on specific competencies, knowledge, or skills; 
 
 #### Welcome Session
 
-a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities; it also supports onboarding for those who recently completed Instructor training and onboarding for new member organisations
+a special type of Community Discussion Session to welcome new members of the community to our organisation; the agenda includes time for networking, covers ways to engage with our organisation, and includes announcements and upcoming opportunities, and also supports onboarding for those who recently completed Instructor training
 
 #### Workbench
 
