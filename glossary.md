@@ -119,7 +119,7 @@ structured or flexibly structured community session on any topic relevant to the
 
 #### Community Member
 
-an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
+an individual who actively participates in The Carpentries' activities, contributing to its mission of emphasising the critical role of software and data in advancing research. Roles include learners, Instructors, Maintainers, and Instructor Trainers, all committed to fostering an inclusive, collaborative, and supportive learning environment.
 
 #### Community Session
 
